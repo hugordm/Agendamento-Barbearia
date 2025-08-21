@@ -21,11 +21,9 @@ Ideal para barbearias que buscam oferecer uma experiência moderna e prática ao
 
 1. Clone o repositório:
 
-   ```bash
    git clone https://github.com/hugordm/agendamento-barbearia.git
+   
 Navegue até o diretório do projeto:
-
-bash
 
 cd agendamento-barbearia
 
