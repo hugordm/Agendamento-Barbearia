@@ -26,7 +26,9 @@ Ideal para barbearias que buscam oferecer uma experiência moderna e prática ao
 Navegue até o diretório do projeto:
 
 bash
+
 cd agendamento-barbearia
+
 Abra o arquivo index.html em seu navegador preferido.
 
 📸 Captura de Tela
